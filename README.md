@@ -1,4 +1,4 @@
-# crystal-grave-wordpress
+# CG Wordpress Theme
 Wordpress Theme
 
 Plugins Used
